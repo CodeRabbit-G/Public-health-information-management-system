@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot,src/c3p0-config.xml
+validator.Unchecked=

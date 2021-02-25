@@ -1,0 +1,16 @@
+.__theadFinal, .__tbodyFinal,
+.__tbodyFinal table
+{
+    width:165px  !important
+}
+
+.ui-table-operation .ui-table-thTitle{
+    padding-left: 20px;
+}
+/*.__theadMain ui-table-main{*/
+/*    width: 800px; !important*/
+/*    right:400px*/
+/*}*/
+/*.ui-table-th{*/
+/*    width:200px; !important*/
+/*}*/
